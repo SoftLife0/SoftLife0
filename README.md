@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Call me Mr. Softlife 😄
-### I’m currently a certified Front-end Developer 🔭
+### I’m currently a certified React Front-end Developer 🔭
+### I’m looking to collaborate on Web Design Projects in React 👯 
 ### I’m currently learning Back End Development and APIs Certification 🌱 
-### I’m looking to collaborate on Web Design Projects 👯 
 ### I’m looking for help with Machine Learning with Python 🤔
 ### How to reach me: onikosiadewale18@gmail.com 📫
 
